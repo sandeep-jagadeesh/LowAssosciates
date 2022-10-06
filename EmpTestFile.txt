@@ -1,0 +1,9 @@
+Employee Matt
+Employee Jeff
+Employee Mike
+Pay Matt 10
+Pay Jeff 20
+Pay Mike 15
+Time Matt 07:15 12:45
+Time Jeff 10:00 16:45
+Time Matt 13:00 18:00
